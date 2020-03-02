@@ -33,3 +33,16 @@
         # "guess", Start: guess
     # End Casewhere:
 # End: menu
+
+# Start: map
+    # Print: "welcome to the map"
+    # Input: "where would you like to go"
+    # Casewhere:
+        #"library",
+        #"kitchen"
+        #"bathroom"
+        # "dining room"
+        # "bedroom"
+        # "office"
+    # End Casewhere:
+# End: map
