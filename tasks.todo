@@ -1,7 +1,7 @@
 # Tasks:
-    ☐ update README file
-    ☐ create changelog
-    ☐ create main game file
+    ✔ update README file @done(2020-03-11 09:31) @project(# Tasks)
+    ✔ create changelog @done(2020-03-11 09:31) @project(# Tasks)
+    ✔ create main game file @done(2020-03-11 09:28) @project(# Tasks)
     ☐ upload files to GitHub
 
 # Game:
@@ -9,4 +9,4 @@
     ☐ Finish the pseudocode
 
 # Other Assignments:
-    ☐ Finish RPG inventory
+    ✔ Finish RPG inventory @done(2020-03-11 09:29) @project(# Other Assignments)
