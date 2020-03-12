@@ -11,3 +11,7 @@ v0.1
 v0.2
 - finished RPG inventory
 - added header and doc strings to dictionaries
+
+v0.3
+- added values to characters
+- worked on printing information on characters
