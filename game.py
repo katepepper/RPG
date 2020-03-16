@@ -30,5 +30,13 @@ locations = {"library": "",
             }
 
 """Print instructions for the character information"""
-for key in characters:
-    print("Information on ")
+print("Information on Evelyn Finch:")
+Age = characters["Evelyn Finch"]["Age"]
+for age in Age:
+    print(f"Age: {age}")
+Job = characters["Evelyn Finch"]["Job"]
+for job in Job:
+    print(f"Job: {job}")
+City = characters["Evelyn Finch"]["City"]
+for city in City:
+    print(f"City: {city}")
