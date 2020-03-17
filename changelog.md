@@ -15,3 +15,7 @@ v0.2
 v0.3
 - added values to characters
 - worked on printing information on characters
+
+v0.4
+- finished the dictionary values
+- finished print statements

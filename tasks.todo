@@ -2,12 +2,12 @@
     ✔ update README file @done(2020-03-11 09:31) @project(# Tasks)
     ✔ create changelog @done(2020-03-11 09:31) @project(# Tasks)
     ✔ create main game file @done(2020-03-11 09:28) @project(# Tasks)
-    ☐ upload files to GitHub
+    ✔ upload files to GitHub @done(2020-03-17 09:37) @project(# Tasks)
 
 # Game:
     ☐ Think of a name for the Game
     ☐ Finish the pseudocode
-    ☐ Finish nested dictionaries assignment
+    ✔ Finish nested dictionaries assignment @done(2020-03-17 09:37) @project(# Game)
 
 # Other Assignments:
     ✔ Finish RPG inventory @done(2020-03-11 09:29) @project(# Other Assignments)
